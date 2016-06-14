@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dungeondimension",
+  "name": "Dungeon Dimension",
+  "description": "A mod that allows players to create monument dimensions",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["tiffit"],
+  "credits": "tiffit, cauliflower69",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
